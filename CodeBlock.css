@@ -11,10 +11,10 @@ body{
     --code-background: rgb(40, 42, 54);
 }
 
-.excalidraw.theme--dark, .theme-dark, .theme-light, .theme-light.minimal-light-contrast .titlebar, .theme-light.minimal-light-contrast.is-mobile .workspace-drawer.mod-left, .theme-light.minimal-light-contrast.minimal-status-off .status-bar, body .excalidraw{
-    color:rgb(18, 129, 18);
+.cm-comment{
     --text-faint: #52707b;
 }
+
 .cm-s-obsidian .HyperMD-codeblock{
      color:#F4F5F6;
 }
