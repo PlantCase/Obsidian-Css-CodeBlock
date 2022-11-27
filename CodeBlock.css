@@ -8,7 +8,7 @@ body{
     --code-string:  rgb(18, 129, 18);
     --code-tag: var(--color-red);
     --code-value: #cd3f45;
-    --code-background: rgb(40, 42, 54);
+
 }
 
 .cm-comment{
@@ -17,6 +17,21 @@ body{
 
 .cm-s-obsidian .HyperMD-codeblock{
      color:#F4F5F6;
+}
+
+.markdown-source-view.mod-cm6 .cm-line.HyperMD-codeblock{
+    color:#F4F5F6;
+}
+
+.cm-s-obsidian div.HyperMD-codeblock-begin-bg, .cm-s-obsidian div.HyperMD-codeblock-end-bg{
+
+    background-color:rgb(40, 42, 54);
+
+
+}
+
+.cm-s-obsidian div.HyperMD-codeblock-bg{
+    background-color:rgb(40, 42, 54);
 }
 
 
